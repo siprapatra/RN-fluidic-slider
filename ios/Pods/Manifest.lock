@@ -1,0 +1,29 @@
+PODS:
+  - fluid-slider (1.0.0):
+    - pop
+  - pop (1.0.12)
+
+DEPENDENCIES:
+  - fluid-slider (from `https://github.com/prscX/fluid-slider`, branch `objectivec`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - pop
+
+EXTERNAL SOURCES:
+  fluid-slider:
+    :branch: objectivec
+    :git: https://github.com/prscX/fluid-slider
+
+CHECKOUT OPTIONS:
+  fluid-slider:
+    :commit: ba8e852e668940778a9295df8216e61885cce064
+    :git: https://github.com/prscX/fluid-slider
+
+SPEC CHECKSUMS:
+  fluid-slider: a19a991606a34a545cba9341e7422073b4ec3a66
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+
+PODFILE CHECKSUM: 94b14d5ffe90fbdf6dedd8e7bc1002b95925ff12
+
+COCOAPODS: 1.5.3
